@@ -1,0 +1,31 @@
+6                     n, the number of bodies
+Sun
+1.9891e30             mass (kg)
+0.0, 0.0, 0.0         coordinates  (AU)
+0.0, 0.0, 0.0         velocity (AU/day)
+1.00                  colour for graphics
+Mercury
+3.3022e23             mass (kg)
+0.387098,  0.0,  0.0  coordinates  (AU)  (Semi-major axis)
+0.0,  0.02765,   0.0  velocity (AU/day)  (47.87 km/s = 0.02765 AU/day)
+0.10                  colour for graphics
+Venus
+48.685e23             mass (kg)
+0.723332,  0.0,  0.0  coordinates  (AU)  (Semi-major axis)
+0.0,  0.02023,   0.0  velocity (AU/day)  (35.02 km/s = 0.02023 AU/day)
+0.40                  colour for graphics
+Earth
+59.735e23             mass (kg)
+1.000000,  0.0,  0.0  coordinates  (AU)  (Semi-major axis)
+0.0,  0.017201,  0.0  velocity (AU/day)  (29.783 km/s = 0.017201 AU/day)
+0.50                  colour for graphics
+Mars
+6.4185e23             mass (kg)
+1.523679,  0.0,  0.0  coordinates  (AU)  (Semi-major axis)
+0.0,  0.013905,  0.0  velocity (AU/day)  (24.077 km/s = 0.013905 AU/day)
+0.25                  colour for graphics
+Jupiter
+1.8986e27             mass (kg)
+5.20426,   0.0,  0.0  coordinates  (AU)  (Semi-major axis)
+0.0,  0.007548,  0.0  velocity (AU/day)  (13.07 km/s = 0.007548 AU/day)
+0.95                  colour for graphics

@@ -1,0 +1,25 @@
+Designer Stellar Cluster
+========================
+
+Design your own personal stellar cluster!
+Imagine N=200 or so globular clusters in a local cluster approximating a small galaxy
+
+Edit the following left-hand entries...
+
+  50.0    Set the initial size of your cluster in Parsecs (pc).
+
+  0.25    Set the thickness of your cluster relative to its diameter.
+
+  1.00    Gravity strength factor.  Change the strength of gravity.
+
+  1.0e6   Mass of a Globular Cluster.  Try 1 million solar masses.
+
+  10.0    Globular Cluster core radius in Parsecs (pc).
+
+   5.0    Time step in kilo-years.
+
+  1.01    Velocity factor.  Change the initial velocities by this factor.
+
+  45.0   0.0  20.0  Ordered rotation angles about the x, then y, then z axes.
+
+  .true.  Spin the view.

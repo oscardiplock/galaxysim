@@ -1,0 +1,5 @@
+v2 hls
+3
+0.0000000    50.0   0.0   0.8   1.0   1
+0.0000001    50.0   0.6   0.8   1.0   1   Entries are:
+1.0000000    60.0   0.6   0.8   1.0   1   control point, hue, luminance, saturation, transparency, .reverse colour-wheel direction.
